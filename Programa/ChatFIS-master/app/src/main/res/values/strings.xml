@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="btn_send">Enviar</string>
+    <string name="txt_hint">Ingrese su mensaje</string>
+    <string name="app_name">Chat FIS</string>
+    <string name="choose_device_name">Escoja el nombre de su dispositivo"</string>
+    <string name="ip_not_available">IP aún no asignada</string>
+
+</resources>
