@@ -29,7 +29,7 @@ proguard/
 *.log
 
 #idea
-PigeonMessenger.iml
+ChatFIS.iml
 .idea
 app/app.iml
 
