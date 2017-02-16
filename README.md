@@ -16,9 +16,10 @@ Chat-Fis requiere Android 4.4 KitKat (API 19) o superior. Esta elección está r
 Es importante recordar que se trata de una aplicación de demostración, por lo que características como la gestión de la rotación de la pantalla, dispositivo de espera, wifi no disponible y así sucesivamente, no se gestionan como un producto comercial
 
 Los principales problemas son la "Fase de Descubrimiento" de este protocolo y la implementación de Wi-Fi Direct en Android, fueron:
-1.El tiempo de descubrimiento es demasiado alto cuando el número de dispositivos aumenta
-2.Después de un tiempo determinado, un dispositivo ya no puede ser detectado por otros, por lo que necesita reiniciar la fase de detección en todos los dispositivos
-3.A veces, especialmente en KitKat, la parte WiFi de Android se bloquea y la única manera de resolver este problema molesto es un reinicio completo del dispositivo
+
+1. El tiempo de descubrimiento es demasiado alto cuando el número de dispositivos aumenta
+2. Después de un tiempo determinado, un dispositivo ya no puede ser detectado por otros, por lo que necesita reiniciar la fase de detección en todos los dispositivos
+3. A veces, especialmente en KitKat, la parte WiFi de Android se bloquea y la única manera de resolver este problema molesto es un reinicio completo del dispositivo
 
 Esto demuestra que es posible ampliar el protocolo Wi-Fi Direct en Android en algunos escenarios específicos y limitados, por ejemplo, un chat
 
