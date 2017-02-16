@@ -32,7 +32,7 @@ task wrapper(type: Wrapper) {
 dependencies {
     compile fileTree(dir: 'libs', include: ['*.jar'])
     provided 'org.projectlombok:lombok:1.16.8'
-    //please be careful. Don't update these dependencies....I know it's crazy...I know!!!
+    
     compile 'com.android.support:appcompat-v7:21.0.0'
     compile 'com.android.support:support-v4:21.0.0'
     compile 'com.android.support:recyclerview-v7:21.0.0'
