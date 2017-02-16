@@ -22,19 +22,19 @@ Los principales problemas son la "Fase de Descubrimiento" de este protocolo y la
 
 Esto demuestra que es posible ampliar el protocolo Wi-Fi Direct en Android en algunos escenarios específicos y limitados, por ejemplo, un chat
 
- Caracteristicas
-1.Cambiar el nombre del dispositivo 
-2.Mostrar una lista de dispositivos cercanos 
-3.Gestionar la conexión y la desconexión entre dispositivos 
-4.Mostrar la dirección IP de un dispositivo, también si es un cliente (no disponible en la API oficial de Android) 
-5.Bloquear los mensajes entrantes si son demasiado cortos o vacíos (habilitados por defecto)
-6.Enviar mensajes en un chat, previamente detenido, si el dispositivo asociado es detectable 
-7.Pone en espera los mensajes si el dispositivo no es detectable, y envíelos todos en el siguiente intento de reconectarse 
+# Características
+1. Cambiar el nombre del dispositivo 
+2. Mostrar una lista de dispositivos cercanos 
+3. Gestionar la conexión y la desconexión entre dispositivos 
+4. Mostrar la dirección IP de un dispositivo, también si es un cliente (no disponible en la API oficial de Android) 
+5. Bloquear los mensajes entrantes si son demasiado cortos o vacíos (habilitados por defecto)
+6. Enviar mensajes en un chat, previamente detenido, si el dispositivo asociado es detectable 
+7. Pone en espera los mensajes si el dispositivo no es detectable, y envíelos todos en el siguiente intento de reconectarse 
 
-Uso general
-1.Active Wi-Fi en todos los dispositivos
-2.Abra esta aplicación en todos los dispositivos
-3.Toque el "boton" bajo las palabras "This Device" para elegir el nombre del dispositivo
-2.Espere a que se descubran los dispositivos
-3.Conecte su dispositivo a otro que toque un elemento de la lista con las palabras "Otros dispositivos"
-4.Charla con este dispositivo
+# Uso general
+1. Active Wi-Fi en todos los dispositivos
+2. Abra esta aplicación en todos los dispositivos
+3. Toque el "boton" bajo las palabras "Este dispositivo" para elegir el nombre del dispositivo
+2. Espere a que se descubran los dispositivos
+3. Conecte su dispositivo a otro que toque un elemento de la lista con las palabras "Dispositivos disponibles"
+4. Charla con este dispositivo
